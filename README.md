@@ -1,4 +1,4 @@
-<h2 align="left">Oi👋! Meu nome é Nicolas!</h2>
+<h2 align="left">Tentando ser melhor a cada dia!✍️</h2>
 Olá, me chamo Nicolas e estou estudando para ingressar no mundo da tecnología, atualmente estou cursando Desenvolvimento de Software Multiplataforma pela FATEC, e também Análise e Desenvolvimento de Sistemas pela UNICSUL.
 
 ###
