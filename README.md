@@ -1,6 +1,15 @@
-<h2 align="left">Tentando ser melhor a cada dia!✍️</h2>
-Olá, me chamo Nicolas e estou estudando para ingressar no mundo da tecnología, atualmente estou cursando Desenvolvimento de Software Multiplataforma pela FATEC, e também Análise e Desenvolvimento de Sistemas pela UNICSUL.
+<h2 align="left">Tentando ser melhor a cada código 🎯</h2>
 
+Eu sou o **Nicolas**, e minha vida se resume a resolver problemas (e criar alguns novos pra resolver depois 😅).
+
+Atualmente estou na correria da graduação em **Software (FATEC)** e **ADS (UNICSUL)**, mas o código já faz parte do meu dia a dia profissional.
+
+### ⚡ O que rola por aqui?
+Minha stack é uma mistura curiosa de dois mundos:
+* 🏢 **No mundo corporativo:** Eu encaro a "lógica pesada" de ERPs com **TOTVS/AdvPL**, garantindo que as regras de negócio funcionem.
+* 🚀 **Na Web Moderna:** Trago essa bagagem de backend robusto para criar aplicações ágeis usando **Node.js**, **React** e **Java**.
+
+Basicamente? Gosto de pegar a complexidade de sistemas grandes e transformar em interfaces que funcionam de verdade.
 
 ###
 
@@ -9,7 +18,9 @@ Olá, me chamo Nicolas e estou estudando para ingressar no mundo da tecnología,
 ###
 
 <div align="left">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <p><strong>🛠️ Minhas ferramentas de batalha:</strong></p>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
@@ -19,16 +30,37 @@ Olá, me chamo Nicolas e estou estudando para ingressar no mundo da tecnología,
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+</div>
+
+###
+
+<div align="left">
+  <h3>🏆 Projetos campeões:</h3>
+  <ul>
+    <li>
+      <a href="URL_DO_CONTROLPAY"><strong>ControlPay</strong></a>: Sistema Financeiro (SaaS) focado em controle de pagamentos. <em>(React + Node)</em>
+    </li>
+    <li>
+      <a href="URL_DO_RONINS"><strong>Ronins Rugby</strong></a>: Gestão completa para um time de Rugby em Cadeira de Rodas. <em>(Fullstack)</em>
+    </li>
+  </ul>
+</div>
+
+###
+
+<div align="left">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fernandesnic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesnic&layout=compact&theme=dracula"/>
 </div>
 
 ###
 
 <div align="left">
   <a href="mailto:nicolasbafernandes@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Manda%20um%20Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fernandesnic/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -37,7 +69,7 @@ Olá, me chamo Nicolas e estou estudando para ingressar no mundo da tecnología,
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
 <a href="https://nicolasfernandes.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-facc15?style=for-the-badge&logoColor=white" height="35" alt="portfolio" />
+  <img src="https://img.shields.io/badge/Meu%20Portf%C3%B3lio-facc15?style=for-the-badge&logoColor=white" height="35" alt="portfolio" />
 </a>
 </div>
 
