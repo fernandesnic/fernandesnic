@@ -36,7 +36,7 @@ Olá, me chamo Nicolas e estou estudando para ingressar no mundo da tecnología,
   <a href="https://www.hackerrank.com/profile/nicolasbafernan1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
-<a href="https://nicolas-fernandes-portifolio.vercel.app/" target="_blank">
+<a href="https://nicolasfernandes.dev" target="_blank">
   <img src="https://img.shields.io/badge/Portf%C3%B3lio-facc15?style=for-the-badge&logoColor=white" height="35" alt="portfolio" />
 </a>
 </div>
