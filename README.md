@@ -41,10 +41,10 @@ Basicamente? Gosto de pegar a complexidade de sistemas grandes e transformar em 
   <h3>🏆 Projetos campeões:</h3>
   <ul>
     <li>
-      <a href="URL_DO_CONTROLPAY"><strong>ControlPay</strong></a>: Sistema Financeiro (SaaS) focado em controle de pagamentos. <em>(React + Node)</em>
+      <a href="https://github.com/fernandesnic/controlpay"><strong>ControlPay</strong></a>: Sistema Financeiro focado em controle de gastos <em>(React + Node)</em>
     </li>
     <li>
-      <a href="URL_DO_RONINS"><strong>Ronins Rugby</strong></a>: Gestão completa para um time de Rugby em Cadeira de Rodas. <em>(Fullstack)</em>
+      <a href="https://github.com/fernandesnic/Ronins"><strong>Ronins Rugby</strong></a>: Gestão completa para um time de Rugby em Cadeira de Rodas. <em>(Fullstack)</em>
     </li>
   </ul>
 </div>
@@ -73,6 +73,13 @@ Basicamente? Gosto de pegar a complexidade de sistemas grandes e transformar em 
 </a>
 </div>
 
+###
+
+<div align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=u0bn60duokx9lbhjuzq5g0ifn&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false" />
+  </a>
+</div>
 
 ###
 
