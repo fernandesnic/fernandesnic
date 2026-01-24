@@ -1,6 +1,6 @@
 <h2 align="left">Tentando ser melhor a cada código 🎯</h2>
 
-Eu sou o **Nicolas**, e minha vida se resume a resolver problemas (e criar alguns novos pra resolver depois 😅).
+Eu sou o **Nicolas**, e minha vida se resume a resolver problemas (e criar alguns novos pra resolver depois😢).
 
 Atualmente estou na correria da graduação em **Software (FATEC)** e **ADS (UNICSUL)**, mas o código já faz parte do meu dia a dia profissional.
 
