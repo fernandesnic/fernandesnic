@@ -33,7 +33,7 @@
 
   <h3>Principais Projetos:</h3>
   <p>
-    <a href="https://github.com/fernandesnic/project-bee"><strong>ProjectBee 🐝</strong></a>
+    <a href="https://github.com/fernandesnic/ProjectBee"><strong>ProjectBee 🐝</strong></a>
   </p>
 
   <br><br>
