@@ -1,8 +1,9 @@
 <div align="center">
-  <h2>Tentando ser melhor a cada código‼️</h2>
+  <h2>Transformando dados em respostas 📊</h2>
 
   <p>
     Eu sou o <strong>Nicolas</strong>, e minha vida se resume a resolver problemas.🫩<br>
+    Agora, resolvendo com dados.
   </p>
 
   <p>
@@ -11,29 +12,32 @@
 
   <h3>😳 O que eu faço aqui?</h3>
   <p>
-      Gosto de aplicar minha experiência profissional com manutenção de ERP em projetos de desenvolvimento web moderno...
+    Analista de dados com base sólida em sistemas ERP. Conheço por dentro os dados que movem uma empresa: faturamento, contas a pagar, contas a receber, estoque...
   </p>
-
-  <p><em>Pegar a complexidade de sistemas robustos e transformar em APIs rápidas e interfaces que funcionam.</em></p>
 
   <br>
 
   <h3>🛠️ Minhas ferramentas de batalha:</h3>
-  
+
   <div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="sql server logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/microsoft/PowerBI-Icons/SVG/Power-BI.svg" height="40" alt="power bi logo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/vscode-icons/vscode-icons/icons/file_type_excel.svg" height="40" alt="excel logo" />
   </div>
 
   <br>
 
   <h3>Principais Projetos:</h3>
   <p>
-    <a href="https://github.com/fernandesnic/ProjectBee"><strong>ProjectBee 🐝</strong></a>
+    <strong>Distribuidora Vale Sul 📦</strong> — análise de vendas e recebíveis de uma distribuidora de alimentos e bebidas
   </p>
 
   <br><br>
