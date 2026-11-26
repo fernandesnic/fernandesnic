@@ -35,9 +35,9 @@
 
   <br>
 
-  <h3>Principais Projetos:</h3>
+ <h3>Principais Projetos:</h3>
   <p>
-    <strong>Distribuidora Vale Sul 📦</strong> — análise de vendas e recebíveis de uma distribuidora de alimentos e bebidas
+    <strong><a href="https://github.com/fernandesnic/distribuidora-vale-sul"> Distribuidora Vale Sul </a>📦</strong> — análise de vendas e recebíveis de uma distribuidora de alimentos e bebidas
   </p>
 
   <br><br>
